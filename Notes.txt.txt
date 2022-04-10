@@ -1,0 +1,10 @@
+Redux : - nous permet de gerer une grande App 
+        - offrir une plz reducers pour gerer plusieurs reducers 
+
+index.js dans les reducers joue le roule d'un depatcheur 
+      - faire le mapping avec les reducers 
+ return { ... state; } Equivalent return state;
+ uuid() : pour generer un id 
+
+
+ Pour react interager avec autre server il faut un midelware "redux-thunk"
